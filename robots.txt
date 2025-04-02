@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://cuso4huang.github.io/sitemap.xml 
+# 如果是自定义域名，请替换成你的域名
+# 例如: Sitemap: https://www.yourdomain.com/sitemap.xml
+# 如果也生成了百度地图，可以加上下面这行
+Sitemap: https://cuso4huang.github.io/baidusitemap.xml
