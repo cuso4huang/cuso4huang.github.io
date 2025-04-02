@@ -117,13 +117,6 @@
   </url>
   
   <url>
-    <loc>http://cuso4huang.github.io/tags/%E9%97%AE%E9%A2%98%E6%8E%92%E6%9F%A5/</loc>
-    <lastmod>2025-04-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://cuso4huang.github.io/tags/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/</loc>
     <lastmod>2025-04-02</lastmod>
     <changefreq>weekly</changefreq>
@@ -131,7 +124,7 @@
   </url>
   
   <url>
-    <loc>http://cuso4huang.github.io/tags/%E6%95%B0%E6%A8%A1/</loc>
+    <loc>http://cuso4huang.github.io/tags/%E9%97%AE%E9%A2%98%E6%8E%92%E6%9F%A5/</loc>
     <lastmod>2025-04-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -139,6 +132,13 @@
   
   <url>
     <loc>http://cuso4huang.github.io/tags/java/</loc>
+    <lastmod>2025-04-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://cuso4huang.github.io/tags/%E6%95%B0%E6%A8%A1/</loc>
     <lastmod>2025-04-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -161,14 +161,14 @@
   </url>
   
   <url>
-    <loc>http://cuso4huang.github.io/categories/%E6%95%B0%E6%A8%A1/</loc>
+    <loc>http://cuso4huang.github.io/categories/java/</loc>
     <lastmod>2025-04-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://cuso4huang.github.io/categories/java/</loc>
+    <loc>http://cuso4huang.github.io/categories/%E6%95%B0%E6%A8%A1/</loc>
     <lastmod>2025-04-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
